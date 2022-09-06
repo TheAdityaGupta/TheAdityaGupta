@@ -4,8 +4,14 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
-</p>
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="https://twitter.com/simran_2104">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/simran_2104?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <a href="#">
+    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
+  <a href="https://github.com/TheAdityaGupta">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/simran2104?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    </p>
 
 
 <p align="center">
