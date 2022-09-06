@@ -4,8 +4,6 @@
 </h2>
 <p align="center">
  
- 
-     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/simran_2104?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 
 
