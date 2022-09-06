@@ -2,14 +2,13 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="http://  Adityadhiman.me/">  Aditya</a>!
    
 </h2>
-
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-  <a href="https://twitter.com/simran_2104">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/simran_2104?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/TheAdityaGupta">
+ 
+ 
+    <a href="#">
+    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
+  <a href="https://github.com/simran2104">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/simran2104?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p>
 
 
 <p align="center">
