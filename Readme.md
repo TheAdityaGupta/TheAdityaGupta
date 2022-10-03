@@ -2,21 +2,18 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="http://  Aditya.me/">  Aditya</a>!
    
 </h2>
- <a href="#">
-  <a href="https://github.com/TheAdityaGupta">
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-  
-    
+    <a href="#">
     <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=TheAdityaGupta&style=flat-square&color=d43182"/></a>
   <a href="https://github.com/TheAdityaGupta">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TheAdityaGupta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    </p>
 
 
 ## 👩 About me:
 <p>
-<!--   I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. I love to experiment with new technologies. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.<br>
-Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems. -->
+I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Android app development and CyberSecurity. I have experience in Algorithms, Data Structures, Web Development, etc. I love to experiment with new technologies. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.<br>
+Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
 </p><br>
 
 <h2>🥇 Specialised in:</h2>
