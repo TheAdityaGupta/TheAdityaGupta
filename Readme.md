@@ -27,19 +27,20 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 - Programming languages : <br />
   [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
   
-  <!--
+  
   
 - Frontend : <br />
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)  [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-  
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)  
+<!--   [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+   -->
 - Backend : <br />
-  [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Django](https://img.shields.io/badge/Django-0b4523?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com) 
+  [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) 
   
 - OS, IDE & Tools : <br />
   [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-grey?style=flat&logo=sublime-text&logoColor=eb9009)](https://www.sublimetext.com/3) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-grey?style=flat&logo=Jupyter&logoColor=orange)](https://jupyter.org/) [![Xampp](https://img.shields.io/badge/Xampp-orange?style=flat&logo=Xampp&logoColor=white)](https://www.apachefriends.org/index.html) [![Windows](https://img.shields.io/badge/Windows-blue?style=flat&logo=Windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
 <br>
 
--->
+
 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
@@ -67,7 +68,7 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 <br>
  
  ## 🙋‍♂️ Connect with me:
-<!-- Badges template - https://github.com/badges/shields -->
+ Badges template - https://github.com/badges/shields 
                                                        
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-295800169"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
