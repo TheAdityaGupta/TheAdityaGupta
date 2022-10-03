@@ -9,8 +9,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-  <a href="https://twitter.com/simran_2104">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/simran_2104?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  
     <a href="#">
     <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
   <a href="https://github.com/simran2104">
