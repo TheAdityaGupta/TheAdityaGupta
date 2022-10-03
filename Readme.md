@@ -1,18 +1,16 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="http://  Adityadhiman.me/">  Aditya</a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="http://  Aditya.me/">  Aditya</a>!
    
 </h2>
-<p align="center">
- 
-
-
-
+ <a href="#">
+    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
+  <a href="https://github.com/simran2104">
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
   
     
     <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=ThrAdityaGupta&style=flat-square&color=d43182"/></a>
-  <a href="https://github.com/simran2104">
+  <a href="https://github.com/TheAdityaGupta">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TheAdityaGupta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 
 
