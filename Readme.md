@@ -68,8 +68,9 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 <br>
  
  ## 🙋‍♂️ Connect with me:
+<!--  
  Badges template - https://github.com/badges/shields 
-                                                       
+                                                        -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-295800169"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:  adityagupta.ag213@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-gmail-f53c20?style=for-the-badge&logo=gmail&logoColor=white"/></a>
