@@ -3,13 +3,12 @@
    
 </h2>
  <a href="#">
-    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=simran2104&style=flat-square&color=d43182"/></a>
-  <a href="https://github.com/simran2104">
+  <a href="https://github.com/TheAdityaGupta">
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
   
     
-    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=ThrAdityaGupta&style=flat-square&color=d43182"/></a>
+    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=TheAdityaGupta&style=flat-square&color=d43182"/></a>
   <a href="https://github.com/TheAdityaGupta">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TheAdityaGupta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 
