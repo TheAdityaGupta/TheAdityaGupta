@@ -25,6 +25,7 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 
 <h2>🥇 Specialised in:</h2>
 <p>🔸Android App Development
+  <p>🔸Ethical Hacking
 
 <br>
 <h2> 🛠 &nbsp;My Tech Stack</h2>
