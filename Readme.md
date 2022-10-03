@@ -24,8 +24,8 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 </p><br>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸
-<p>
+<p>🔸Android App Development
+
 <br>
 <h2> 🛠 &nbsp;My Tech Stack</h2>
  
