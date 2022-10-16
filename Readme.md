@@ -51,7 +51,7 @@ Currently I am looking forward to opportunities which allow me to apply my probl
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheAdityaGupta&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TheAdityaGupta" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=  Aditya  &show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="  Aditya  " align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAdityaGupta&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="TheAdityaGupta" align = "center"/></p>
 </details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
