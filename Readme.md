@@ -79,6 +79,8 @@ Currently I am looking forward to opportunities which allow me to apply my probl
   <a href="https://www.hackerrank.com/  Aditya  "><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 --> 
                                                        </p>
+                                                       
+[![@theadityagupta's Holopin board](https://holopin.me/theadityagupta)](https://holopin.io/@theadityagupta)
 
  <hr>
 <p align="center">
